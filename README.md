@@ -1,0 +1,2 @@
+# terraformnotes
+terraform notes pratice
