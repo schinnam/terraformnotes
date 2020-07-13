@@ -1,5 +1,7 @@
 REF: https://learn.hashicorp.com/terraform/getting-started/intro
 
+To Read Ref: 
+1. https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca
 
 # terraformnotes
 terraform notes pratice
