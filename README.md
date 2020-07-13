@@ -1,3 +1,6 @@
+REF: https://learn.hashicorp.com/terraform/getting-started/intro
+
+
 # terraformnotes
 terraform notes pratice
 
